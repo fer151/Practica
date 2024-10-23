@@ -1,0 +1,10 @@
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.exe.config
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.exe
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.pdb
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.AssemblyReference.cache
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.FormInventario.resources
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.Properties.Resources.resources
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.GenerateResource.cache
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.exe
+C:\Users\Admin\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.pdb
