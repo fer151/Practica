@@ -1,0 +1,10 @@
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.exe.config
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.exe
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.pdb
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.FormClientes.resources
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.exe
+C:\Users\DELL\OneDrive\Documents\practica\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.pdb
