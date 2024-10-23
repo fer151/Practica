@@ -1,0 +1,11 @@
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.exe.config
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\bin\Debug\Practica_Git.pdb
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.AssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.Form1.resources
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.FormVentas.resources
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.exe
+C:\Users\marco\OneDrive\Documentos\GitHub\Practica\Practica_Git\Practica_Git\obj\Debug\Practica_Git.pdb
